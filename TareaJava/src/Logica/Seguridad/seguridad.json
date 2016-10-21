@@ -1,0 +1,6 @@
+{
+    "namedb": "empresa",
+    "url": "jdbc:mysql://localhost/",
+    "psw": "Arcangel22",
+    "usuario": "root"
+}
